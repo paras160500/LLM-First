@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-mistralai
+python-dotenv
+langchain-community
+tavily
